@@ -1,5 +1,5 @@
 <mujoco model="my_robot_scene">
-  <include file="black_mujoco.xml"/>
+  <include file="black_description.xml"/>
 
   <worldbody>
     <geom name="floor" type="plane" size="5 5 0.1" rgba="0.8 0.8 0.8 1" />
